@@ -1,5 +1,5 @@
 # ATBM_BTL_3
-# Nội dung file .env
+## Nội dung file .env
 ```
 DB_SERVER=localhost\SQLEXPRESS
 DB_NAME=FlaskAuth
